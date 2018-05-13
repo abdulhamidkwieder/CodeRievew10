@@ -1,0 +1,50 @@
+.card {
+	margin: 20px;
+	max-height: 1000px;
+
+	}
+form{
+	margin-bottom: 0;
+}
+.card img {
+	max-height: 400px;
+}
+.jumbotron {
+	background-image: url(http://cdn.firespring.com/images/555b8860-0e4d-44aa-8738-cea1fa7c1903.jpg);
+	color: #b00002;
+}
+.btn a {
+	color: #ccc;
+	text-decoration: none;
+}
+.form-signin {
+	margin: 15%;
+}
+.form-signin label {
+	width: 60%;
+}
+.signup {
+	 background-color: #eee;
+
+}
+.signup h1 {
+	color: #b00002;
+}
+.all {
+	margin-top: 50px;
+	color: #b00002;
+}
+.card .mb-3 {
+	width: 400px;
+}
+.carousel-inne img {
+	height: 400px;
+}
+#wtext{
+	text-align: center;
+	margin-top: 25px;
+}
+
+.nav-item a{
+	color: #b00002;
+}
